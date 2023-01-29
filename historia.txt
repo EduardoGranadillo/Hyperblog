@@ -1,4 +1,9 @@
 Esta es la prueba de mis primeros pasos con git
+
 para acceder a carpetas escribo cd seguido de la carpeta que quiero entrar.
+
 para saber en que carpetas estoy es pwd
+
 para salir de un lugar scape shift zz.
+
+seguimos practicando los commit
