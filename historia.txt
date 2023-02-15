@@ -7,3 +7,5 @@ para saber en que carpetas estoy es pwd
 para salir de un lugar scape shift zz.
 
 seguimos practicando los commit
+
+regresamos de vacaciones y comenzamos a estidiar de nuevo
